@@ -1,0 +1,3 @@
+-- Databricks notebook source
+-- MAGIC %python
+-- MAGIC dbutils.widgets.text("path","/databricks-datasets/retail-org/")
